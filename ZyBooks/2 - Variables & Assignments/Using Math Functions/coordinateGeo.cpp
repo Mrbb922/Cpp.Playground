@@ -1,3 +1,11 @@
+/*
+	Determine the distance between point (x1, y1) and point (x2, y2),
+	and assign the result to pointsDistance. The calculation is:
+	Distance = SquareRootOf( (x2 - x1)^2 + (y2 - y1)^2 )
+	You may declare additional variables.
+	Ex: For points (1.0, 2.0) and (1.0, 5.0), pointsDistance is 3.0.
+*/
+
 #include <iostream>
 #include <cmath>
 using namespace std;
