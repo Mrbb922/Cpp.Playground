@@ -1,7 +1,9 @@
 /*
- * Complete the function definition to output the hours given minutes. Output for sample program:
- * 3.5
-/*
+
+    Complete the function definition to output the hours given minutes. Output for sample program:
+    3.5
+      
+*/
 
 #include <iostream>
 using namespace std;
